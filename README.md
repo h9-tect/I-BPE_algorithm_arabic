@@ -1,4 +1,4 @@
-# Incremental Byte Pair Encoding (I-BPE) Algorithm
+# Incremental Byte Pair Encoding (I-BPE) Algorithm For arabic 
 ## used in AceGPT [paper](https://huggingface.co/FreedomIntelligence/AceGPT-v1.5-13B-Chat/blob/main/Second_Language_(Arabic)_Acquisition_of_LLMs_via_Progressive_Vocabulary_Expansion.pdf) 
 ## Introduction
 
