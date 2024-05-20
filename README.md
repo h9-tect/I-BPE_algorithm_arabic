@@ -1,5 +1,5 @@
 # Incremental Byte Pair Encoding (I-BPE) Algorithm
-
+## used in AceGPT [paper](https://huggingface.co/FreedomIntelligence/AceGPT-v1.5-13B-Chat/blob/main/Second_Language_(Arabic)_Acquisition_of_LLMs_via_Progressive_Vocabulary_Expansion.pdf) 
 ## Introduction
 
 The Incremental Byte Pair Encoding (I-BPE) algorithm is an extension of the standard Byte Pair Encoding (BPE) method. It dynamically expands the vocabulary during the training process, allowing the model to incorporate new tokens incrementally. This mimics human learning by gradually introducing new information and adapting over time.
